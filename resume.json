@@ -34,7 +34,8 @@
           "Monitored our IP address for blacklisting issues and handled them based on our policies.",
           "Helped to document procedures and policies, regarding compromised accounts and blacklisting issues.",
           "Reviewed abusive accounts and proceeded accordingly per our procedures and or policies.",
-          "Worked with 3rd party abuse companies to take down malicious sites."
+          "Worked with 3rd party abuse companies to take down malicious sites.",
+          "Created bash scripts to help automate and obtain information from logs."
         ]
       },
       {
@@ -85,7 +86,6 @@
     "skills": [
       {
         "name": "Linux System Admin",
-        "level": "Novice",
         "keywords": [
           "Scripting",
           "Management",
@@ -94,19 +94,10 @@
         ]
       },
       {
-        "name": "Development",
-        "level": "Novice",
+        "name": "Automation & Development",
         "keywords": [
           "Bash",
           "Git"
-        ]
-      },
-      {
-        "name": "DevOps",
-        "level": "Beginner",
-        "keywords": [
-          "Chef",
-          "Automation"
         ]
       }
     ],
@@ -118,11 +109,12 @@
     ],
     "interests": [
       {
-        "name": "Development",
+        "name": "DevOps & Development",
         "keywords": [
+          "Chef",
+          "Automation",
           "CI pipeline",
-          "cookbooks",
-          "chef-compliance",
+          "Cookbooks",
           "Inspec",
           "Ruby"
         ]
@@ -131,7 +123,7 @@
         "name": "Linux Administration",
         "keywords": [
           "Bash Scripting",
-          "Installing and troubleshooting new software"
+          "Installing & troubleshooting new software"
         ]
       }
     ],
