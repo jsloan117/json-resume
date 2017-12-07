@@ -1,8 +1,7 @@
 {
     "basics": {
       "name": "Jonathan Sloan",
-      "label": "Jr Linux Administrator",
-      "picture": "",
+      "label": "Jr. Linux Administrator",
       "email": "jsloan117@gmail.com",
       "phone": "(419) 388-9364",
       "website": "",
@@ -22,28 +21,28 @@
     },
     "work": [
       {
-            "company": "A2 Hosting",
-            "position": "Compliance Specialist",
-            "website": "https://www.a2hosting.com/",
-            "startDate": "2014-06-01",
-            "endDate": "2017-07-31",
-            "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
-            "highlights": [
-              "Worked remotely from home.",
-              "Supported Customers via Phone, Live Chat, and Support Tickets.",
-              "Monitored Exim mail queues and logs for spam and other malicious activity using nagios.",
-              "Monitored our IP address for blacklisting issues and handled them based on our policies.",
-              "Helped to document procedures and policies, regarding compromised accounts and blacklisting issues.",
-              "Reviewed abusive accounts and proceeded accordingly per our procedures and or policies.",
-              "Worked with 3rd party abuse companies to take down malicious sites."
-            ]
+        "company": "A2 Hosting",
+        "position": "Compliance Specialist",
+        "website": "https://www.a2hosting.com/",
+        "startDate": "2015-06-01",
+        "endDate": "2017-07-31",
+        "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
+        "highlights": [
+          "Worked remotely from home.",
+          "Supported Customers via Phone, Live Chat, and Support Tickets.",
+          "Monitored Exim mail queues and logs for spam and other malicious activity using nagios.",
+          "Monitored our IP address for blacklisting issues and handled them based on our policies.",
+          "Helped to document procedures and policies, regarding compromised accounts and blacklisting issues.",
+          "Reviewed abusive accounts and proceeded accordingly per our procedures and or policies.",
+          "Worked with 3rd party abuse companies to take down malicious sites."
+        ]
       },
       {
         "company": "A2 Hosting",
         "position": "Linux Support Analyst",
         "website": "https://www.a2hosting.com/",
         "startDate": "2013-12-26",
-        "endDate": "2014-06-01",
+        "endDate": "2015-06-01",
         "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
         "highlights": [
           "Worked remotely from home.",
@@ -61,15 +60,14 @@
         "institution": "Baker College",
         "area": "Computer Information Systems concentrated in Cyber Defense",
         "studyType": "Bachelor",
-        "startDate": "2011",
+        "startDate": "2011-12",
         "endDate": ""
       },
       {
         "institution": "Four County Career Center",
-        "area": "Cisco Systems and gerneral IT",
-        "studyType": "",
-        "startDate": "2007",
-        "endDate": "2009"
+        "area": "Cisco Systems and general IT",
+        "startDate": "2007-09",
+        "endDate": "2009-06"
       }
     ],
     "awards": [
@@ -89,18 +87,18 @@
         "name": "Linux System Admin",
         "level": "Novice",
         "keywords": [
-          "scripting",
-          "managment",
-          "monitoring",
-          "security",
-          "automation"
+          "Scripting",
+          "Management",
+          "Monitoring",
+          "Security",
+          "Automation"
         ]
       },
       {
         "name": "Development",
         "level": "Novice",
         "keywords": [
-          "bash"
+          "Bash"
         ]
       },
       {
@@ -108,7 +106,7 @@
         "level": "Beginner",
         "keywords": [
           "Chef",
-          "automation"
+          "Automation"
         ]
       }
     ],
@@ -133,7 +131,7 @@
         "name": "Linux Administration",
         "keywords": [
           "Bash Scripting",
-          "Installing new software"
+          "Installing and troubleshooting new software"
         ]
       }
     ],
