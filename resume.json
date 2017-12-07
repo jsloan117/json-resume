@@ -1,0 +1,145 @@
+{
+    "basics": {
+      "name": "Jonathan Sloan",
+      "label": "Jr Linux Administrator",
+      "picture": "",
+      "email": "jsloan117@gmail.com",
+      "phone": "(419) 388-9364",
+      "website": "",
+      "summary": "A Certified Linux System Administrator with experience in the daily operations, support and maintenance for Linux operating systems, and servers. Managed web services and provided support for Linux system-related issues and requests for all clients.",
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Jonathan Sloan",
+          "url": "https://www.linkedin.com/in/jonathan-sloan-52a808146"
+        },
+        {
+          "network": "GitHub",
+          "username": "som3guy",
+          "url": "https://github.com/jsloan117"
+        }
+      ]
+    },
+    "work": [
+      {
+            "company": "A2 Hosting",
+            "position": "Compliance Specialist",
+            "website": "https://www.a2hosting.com/",
+            "startDate": "2014-06-01",
+            "endDate": "2017-07-31",
+            "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
+            "highlights": [
+              "Worked remotely from home.",
+              "Supported Customers via Phone, Live Chat, and Support Tickets.",
+              "Monitored Exim mail queues and logs for spam and other malicious activity using nagios.",
+              "Monitored our IP address for blacklisting issues and handled them based on our policies.",
+              "Helped to document procedures and policies, regarding compromised accounts and blacklisting issues.",
+              "Reviewed abusive accounts and proceeded accordingly per our procedures and or policies.",
+              "Worked with 3rd party abuse companies to take down malicious sites."
+            ]
+      },
+      {
+        "company": "A2 Hosting",
+        "position": "Linux Support Analyst",
+        "website": "https://www.a2hosting.com/",
+        "startDate": "2013-12-26",
+        "endDate": "2014-06-01",
+        "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
+        "highlights": [
+          "Worked remotely from home.",
+          "Supported Customers via Phone, Live Chat, and Support Tickets.",
+          "Migrated client cPanel accounts from other hosts to our servers as well as internally.",
+          "Assisted customers with pre-sales and sales questions.",
+          "Provided server-side support for hosting services.",
+          "Review abusive accounts and proceed accordingly.",
+          "Work with 3rd party abuse companies to take down malicious sites."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Baker College",
+        "area": "Computer Information Systems concentrated in Cyber Defense",
+        "studyType": "Bachelor",
+        "startDate": "2011",
+        "endDate": ""
+      },
+      {
+        "institution": "Four County Career Center",
+        "area": "Cisco Systems and gerneral IT",
+        "studyType": "",
+        "startDate": "2007",
+        "endDate": "2009"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Linux+",
+        "date": "2017-10-27",
+        "awarder": "CompTIA"
+      },
+      {
+        "title": "LPIC-1",
+        "date": "2017-10-27",
+        "awarder": "LPI"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Linux System Admin",
+        "level": "Novice",
+        "keywords": [
+          "scripting",
+          "managment",
+          "monitoring",
+          "security",
+          "automation"
+        ]
+      },
+      {
+        "name": "Development",
+        "level": "Novice",
+        "keywords": [
+          "bash"
+        ]
+      },
+      {
+        "name": "DevOps",
+        "level": "Beginner",
+        "keywords": [
+          "Chef",
+          "automation"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Development",
+        "keywords": [
+          "CI pipeline",
+          "cookbooks",
+          "chef-compliance",
+          "Inspec",
+          "Ruby"
+        ]
+      },
+      {
+        "name": "Linux Administration",
+        "keywords": [
+          "Bash Scripting",
+          "Installing new software"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "name": "Available upon request."
+      }
+    ]
+  }
