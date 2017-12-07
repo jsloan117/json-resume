@@ -90,15 +90,15 @@
           "Scripting",
           "Management",
           "Monitoring",
-          "Security",
-          "Automation"
+          "Security"
         ]
       },
       {
         "name": "Development",
         "level": "Novice",
         "keywords": [
-          "Bash"
+          "Bash",
+          "Git"
         ]
       },
       {
