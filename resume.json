@@ -81,16 +81,59 @@
         "title": "LPIC-1",
         "date": "2017-10-27",
         "awarder": "LPI"
+      },
+      {
+        "title": "Collegiate Cyber Defense Competition",
+        "date": "2013-05",
+        "awarder": "National CCDC",
+        "summary": "Regional contestant"
+      },
+      {
+        "title": "PC Servicing & Troubleshooting",
+        "date": "2009-02",
+        "awarder": "Business Professional of America",
+        "summary": "State contestant"
+      },
+      {
+        "title": "PC Servicing & Troubleshooting",
+        "date": "2008-02",
+        "awarder": "Business Professional of America",
+        "summary": "State contestant"
       }
     ],
     "skills": [
       {
-        "name": "Linux System Admin",
+        "name": "Linux Systems Administration",
         "keywords": [
+          "CentOS",
+          "Ubuntu",
           "Scripting",
           "Management",
           "Monitoring",
           "Security"
+        ]
+      },
+      {
+        "name": "Troubleshooting Services",
+        "keywords": [
+          "DNS",
+          "HTTP",
+          "POP3/IMAP",
+          "SMTP",
+          "FTP",
+          "MySQL"
+        ]
+      },
+      {
+        "name": "General IT",
+        "keywords": [
+          "Networking",
+          "Technical Support",
+          "Computer Repair",
+          "Troubleshooting Hardware & Software",
+          "Customer Service",
+          "Documentation",
+          "Software Installation"
         ]
       },
       {
@@ -123,7 +166,7 @@
         "name": "Linux Administration",
         "keywords": [
           "Bash Scripting",
-          "Installing & troubleshooting new software"
+          "Installing & troubleshooting software"
         ]
       }
     ],
