@@ -21,6 +21,20 @@
     },
     "work": [
       {
+        "company": "Codero",
+        "position": "Level 1 Support Technician",
+        "website": "https://www.codero.com/",
+        "startDate": "2018-01-22",
+        "endDate": "",
+        "summary": "Codero a web hosting company based out of Overland Park Kansas. They offer everything from cloud computing to high-performance dedicated servers.",
+        "highlights": [
+          "Support Customers via Phone, Live Chat, and Ticketing system.",
+          "Support Operating systems that are based on Linux & Windows.",
+          "Support cPanel/WHM & Plesk control panels.",
+          "Troubleshoot multitude of issues and services."
+        ]
+      },
+      {
         "company": "A2 Hosting",
         "position": "Compliance Specialist",
         "website": "https://www.a2hosting.com/",
