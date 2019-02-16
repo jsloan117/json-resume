@@ -87,6 +87,11 @@
     ],
     "awards": [
       {
+        "title": "Certified Solutions Architect - Associate (SAA)",
+        "date": "2019-02-15",
+        "awarder": "AWS"
+      },
+      {
         "title": "Linux+",
         "date": "2017-10-27",
         "awarder": "CompTIA"
