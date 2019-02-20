@@ -1,197 +1,197 @@
 {
-    "basics": {
-      "name": "Jonathan Sloan",
-      "label": "",
-      "email": "jsloan117@gmail.com",
-      "phone": "(419) 388-9364",
-      "website": "www.jonathansloan.me",
-      "summary": "A Certified Linux System Administrator with experience in the daily operations, support and maintenance for Linux operating systems, and servers. Managed web services and providing support for Linux system-related issues and requests for all clients.",
-      "profiles": [
-        {
-          "network": "LinkedIn",
-          "username": "Jonathan Sloan",
-          "url": "https://www.linkedin.com/in/jonathan-sloan-52a808146"
-        },
-        {
-          "network": "GitHub",
-          "username": "jsloan117",
-          "url": "https://github.com/jsloan117"
-        }
-      ]
-    },
-    "work": [
+  "basics": {
+    "name": "Jonathan Sloan",
+    "label": "",
+    "email": "jsloan117@gmail.com",
+    "phone": "(419) 388-9364",
+    "website": "www.jonathansloan.me",
+    "summary": "A Certified Linux System Administrator with experience in the daily operations, support and maintenance for Linux operating systems, and servers. Managed web services and providing support for Linux system-related issues and requests for all clients.",
+    "profiles": [
       {
-        "company": "Codero",
-        "position": "Level 1 Support Technician",
-        "website": "https://www.codero.com/",
-        "startDate": "2018-01-22",
-        "endDate": "",
-        "summary": "Codero a web hosting company based out of Overland Park Kansas. They offer everything from cloud computing to high-performance dedicated servers.",
-        "highlights": [
-          "Support Customers via Phone, Live Chat, and Ticketing system.",
-          "Support Operating systems that are based on Linux & Windows.",
-          "Support cPanel/WHM & Plesk control panels.",
-          "Troubleshoot multitude of issues and services."
-        ]
+        "network": "LinkedIn",
+        "username": "Jonathan Sloan",
+        "url": "https://www.linkedin.com/in/jonathan-sloan-52a808146"
       },
       {
-        "company": "A2 Hosting",
-        "position": "Compliance Specialist",
-        "website": "https://www.a2hosting.com/",
-        "startDate": "2015-06-01",
-        "endDate": "2017-07-31",
-        "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
-        "highlights": [
-          "Worked remotely from home.",
-          "Supported Customers via Phone, Live Chat, and Support Tickets.",
-          "Monitored Exim mail queues and logs for spam and other malicious activity using nagios.",
-          "Monitored our IP address for blacklisting issues and handled them based on our policies.",
-          "Helped to document procedures and policies, regarding compromised accounts and blacklisting issues.",
-          "Reviewed abusive accounts and proceeded accordingly per our procedures and or policies.",
-          "Worked with 3rd party abuse companies to take down malicious sites.",
-          "Created bash scripts to help automate and obtain information from logs."
-        ]
-      },
-      {
-        "company": "A2 Hosting",
-        "position": "Linux Support Analyst",
-        "website": "https://www.a2hosting.com/",
-        "startDate": "2013-12-26",
-        "endDate": "2015-06-01",
-        "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
-        "highlights": [
-          "Worked remotely from home.",
-          "Supported Customers via Phone, Live Chat, and Support Tickets.",
-          "Migrated client cPanel accounts from other hosts to our servers as well as internally.",
-          "Assisted customers with pre-sales and sales questions.",
-          "Provided server-side support for hosting services.",
-          "Review abusive accounts and proceed accordingly.",
-          "Work with 3rd party abuse companies to take down malicious sites."
-        ]
-      }
-    ],
-    "education": [
-      {
-        "institution": "Baker College",
-        "area": "Computer Information Systems concentrated in Cyber Defense",
-        "studyType": "Bachelor",
-        "startDate": "2011-12",
-        "endDate": "2016-04"
-      },
-      {
-        "institution": "Four County Career Center",
-        "area": "Cisco Systems and general IT",
-        "startDate": "2007-09",
-        "endDate": "2009-06"
-      }
-    ],
-    "awards": [
-      {
-        "title": "Certified Solutions Architect - Associate (SAA)",
-        "date": "2019-02-15",
-        "awarder": "AWS"
-      },
-      {
-        "title": "Linux+",
-        "date": "2017-10-27",
-        "awarder": "CompTIA"
-      },
-      {
-        "title": "LPIC-1",
-        "date": "2017-10-27",
-        "awarder": "LPI"
-      },
-      {
-        "title": "Collegiate Cyber Defense Competition",
-        "date": "2013-05",
-        "awarder": "National CCDC",
-        "summary": "Regional contestant"
-      },
-      {
-        "title": "PC Servicing & Troubleshooting",
-        "date": "2009-02",
-        "awarder": "Business Professional of America",
-        "summary": "State contestant"
-      },
-      {
-        "title": "PC Servicing & Troubleshooting",
-        "date": "2008-02",
-        "awarder": "Business Professional of America",
-        "summary": "State contestant"
-      }
-    ],
-    "skills": [
-      {
-        "name": "Linux Systems Administration",
-        "keywords": [
-          "CentOS",
-          "Ubuntu",
-          "Scripting",
-          "Management",
-          "Monitoring",
-          "Security"
-        ]
-      },
-      {
-        "name": "Troubleshooting Services",
-        "keywords": [
-          "DNS",
-          "HTTP",
-          "POP3/IMAP",
-          "SMTP",
-          "FTP",
-          "MySQL"
-        ]
-      },
-      {
-        "name": "General IT",
-        "keywords": [
-          "Networking",
-          "Technical Support",
-          "Computer Repair",
-          "Troubleshooting Hardware & Software",
-          "Customer Service",
-          "Documentation",
-          "Software Installation"
-        ]
-      },
-      {
-        "name": "Automation & Development",
-        "keywords": [
-          "Bash",
-          "Git"
-        ]
-      }
-    ],
-    "languages": [
-      {
-        "language": "English",
-        "fluency": "Native speaker"
-      }
-    ],
-    "interests": [
-      {
-        "name": "DevOps & Development",
-        "keywords": [
-          "Chef",
-          "Automation",
-          "CI pipeline",
-          "Cookbooks",
-          "Inspec",
-          "Ruby"
-        ]
-      },
-      {
-        "name": "Linux Administration",
-        "keywords": [
-          "Bash Scripting",
-          "Installing & troubleshooting software"
-        ]
-      }
-    ],
-    "references": [
-      {
-        "name": "Available upon request."
+        "network": "GitHub",
+        "username": "jsloan117",
+        "url": "https://github.com/jsloan117"
       }
     ]
-  }
+  },
+  "work": [
+    {
+      "company": "Codero",
+      "position": "Level 1 Support Technician",
+      "website": "https://www.codero.com/",
+      "startDate": "2018-01-22",
+      "endDate": "",
+      "summary": "Codero a web hosting company based out of Overland Park Kansas. They offer everything from cloud computing to high-performance dedicated servers.",
+      "highlights": [
+        "Support Customers via Phone, Live Chat, and Ticketing system.",
+        "Support Operating systems that are based on Linux & Windows.",
+        "Support cPanel/WHM & Plesk control panels.",
+        "Troubleshoot multitude of issues and services."
+      ]
+    },
+    {
+      "company": "A2 Hosting",
+      "position": "Compliance Specialist",
+      "website": "https://www.a2hosting.com/",
+      "startDate": "2015-06-01",
+      "endDate": "2017-07-31",
+      "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
+      "highlights": [
+        "Worked remotely from home.",
+        "Supported Customers via Phone, Live Chat, and Support Tickets.",
+        "Monitored Exim mail queues and logs for spam and other malicious activity using nagios.",
+        "Monitored our IP address for blacklisting issues and handled them based on our policies.",
+        "Helped to document procedures and policies, regarding compromised accounts and blacklisting issues.",
+        "Reviewed abusive accounts and proceeded accordingly per our procedures and or policies.",
+        "Worked with 3rd party abuse companies to take down malicious sites.",
+        "Created bash scripts to help automate and obtain information from logs."
+      ]
+    },
+    {
+      "company": "A2 Hosting",
+      "position": "Linux Support Analyst",
+      "website": "https://www.a2hosting.com/",
+      "startDate": "2013-12-26",
+      "endDate": "2015-06-01",
+      "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
+      "highlights": [
+        "Worked remotely from home.",
+        "Supported Customers via Phone, Live Chat, and Support Tickets.",
+        "Migrated client cPanel accounts from other hosts to our servers as well as internally.",
+        "Assisted customers with pre-sales and sales questions.",
+        "Provided server-side support for hosting services.",
+        "Review abusive accounts and proceed accordingly.",
+        "Work with 3rd party abuse companies to take down malicious sites."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Baker College",
+      "area": "Computer Information Systems concentrated in Cyber Defense",
+      "studyType": "Bachelor",
+      "startDate": "2011-12",
+      "endDate": "2016-04"
+    },
+    {
+      "institution": "Four County Career Center",
+      "area": "Cisco Systems and general IT",
+      "startDate": "2007-09",
+      "endDate": "2009-06"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Certified Solutions Architect - Associate (SAA)",
+      "date": "2019-02-15",
+      "awarder": "AWS"
+    },
+    {
+      "title": "Linux+",
+      "date": "2017-10-27",
+      "awarder": "CompTIA"
+    },
+    {
+      "title": "LPIC-1",
+      "date": "2017-10-27",
+      "awarder": "LPI"
+    },
+    {
+      "title": "Collegiate Cyber Defense Competition",
+      "date": "2013-05",
+      "awarder": "National CCDC",
+      "summary": "Regional contestant"
+    },
+    {
+      "title": "PC Servicing & Troubleshooting",
+      "date": "2009-02",
+      "awarder": "Business Professional of America",
+      "summary": "State contestant"
+    },
+    {
+      "title": "PC Servicing & Troubleshooting",
+      "date": "2008-02",
+      "awarder": "Business Professional of America",
+      "summary": "State contestant"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Linux Systems Administration",
+      "keywords": [
+        "CentOS",
+        "Ubuntu",
+        "Scripting",
+        "Management",
+        "Monitoring",
+        "Security"
+      ]
+    },
+    {
+      "name": "Troubleshooting Services",
+      "keywords": [
+        "DNS",
+        "HTTP",
+        "POP3/IMAP",
+        "SMTP",
+        "FTP",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "General IT",
+      "keywords": [
+        "Networking",
+        "Technical Support",
+        "Computer Repair",
+        "Troubleshooting Hardware & Software",
+        "Customer Service",
+        "Documentation",
+        "Software Installation"
+      ]
+    },
+    {
+      "name": "Automation & Development",
+      "keywords": [
+        "Bash",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "DevOps & Development",
+      "keywords": [
+        "Chef",
+        "Automation",
+        "CI pipeline",
+        "Cookbooks",
+        "Inspec",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Linux Administration",
+      "keywords": [
+        "Bash Scripting",
+        "Installing & troubleshooting software"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request."
+    }
+  ]
+}
