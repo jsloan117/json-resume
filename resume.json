@@ -21,11 +21,26 @@
   },
   "work": [
     {
+      "company": "H&R Block",
+      "position": "Associate Infrastructure Engineer",
+      "website": "https://www.hrblock.com",
+      "startDate": "2019-06-03",
+      "endDate": "",
+      "summary": "H&R Block the leading tax experts.",
+      "highlights": [
+        "Manage internal systems that are required for daily operations.",
+        "Not only work with my team to accomplish tasks and projects, but also with many other teams across H&R Block, such as: development, networking, security, and management. Work on-call 24/7 for solutions I am a primary Engineer for.",
+        "Support Customers via Phone, Live Chat, and Ticketing system.",
+        "Support Operating systems that are based on Linux & Windows.",
+        "Troubleshoot multitude of issues and services."
+      ]
+    },
+    {
       "company": "Codero",
       "position": "Level 1 Support Technician",
-      "website": "https://www.codero.com/",
+      "website": "https://www.codero.com",
       "startDate": "2018-01-22",
-      "endDate": "",
+      "endDate": "2019-05-30",
       "summary": "Codero a web hosting company based out of Overland Park Kansas. They offer everything from cloud computing to high-performance dedicated servers.",
       "highlights": [
         "Support Customers via Phone, Live Chat, and Ticketing system.",
@@ -37,7 +52,7 @@
     {
       "company": "A2 Hosting",
       "position": "Compliance Specialist",
-      "website": "https://www.a2hosting.com/",
+      "website": "https://www.a2hosting.com",
       "startDate": "2015-06-01",
       "endDate": "2017-07-31",
       "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
