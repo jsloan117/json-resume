@@ -5,7 +5,7 @@
     "email": "jsloan117@gmail.com",
     "phone": "(419) 388-9364",
     "website": "www.jonathansloan.me",
-    "summary": "A Certified Linux System Administrator with experience in the daily operations, support and maintenance for Linux operating systems, and servers. Managed web services and providing support for Linux system-related issues and requests for all clients.",
+    "summary": "Certified Linux system administrator with experience in the daily operations, support, and maintenance of Linux operating systems.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -22,16 +22,31 @@
   "work": [
     {
       "company": "H&R Block",
+      "position": "Infrastructure Engineer",
+      "website": "https://www.hrblock.com",
+      "startDate": "2021-01-09",
+      "summary": "H&R Block the leading tax experts.",
+      "highlights": [
+        "Assist in developing, and documenting company standards for Chef.",
+        "Assist in design, and maintaining our pipelines.",
+        "Write many inspec profiles.",
+        "Work with many teams to help guide in writting cookbooks, and inspec profiles.",
+        "Plus all previous responsibilities."
+      ]
+    },
+    {
+      "company": "H&R Block",
       "position": "Associate Infrastructure Engineer",
       "website": "https://www.hrblock.com",
       "startDate": "2019-06-03",
-      "endDate": "",
+      "endDate": "2021-01-09",
       "summary": "H&R Block the leading tax experts.",
       "highlights": [
         "Manage internal systems that are required for daily operations.",
-        "Not only work with my team to accomplish tasks and projects, but also with many other teams across H&R Block, such as: development, networking, security, and management. Work on-call 24/7 for solutions I am a primary Engineer for.",
-        "Support Operating systems that are based on Linux & Windows.",
-        "Troubleshoot multitude of issues and services."
+        "Work with multiple different teams across H&R Block to accomplish company goals & projects.",
+        "On-call 24/7 as the primary engineer for many solutions.",
+        "Support Linux & Windows operating systems.",
+        "Troubleshoot a multitude of issues and services."
       ]
     },
     {
@@ -42,9 +57,9 @@
       "endDate": "2019-05-30",
       "summary": "Codero a web hosting company based out of Overland Park Kansas. They offer everything from cloud computing to high-performance dedicated servers.",
       "highlights": [
-        "Support Customers via Phone, Live Chat, and Ticketing system.",
-        "Support Operating systems that are based on Linux & Windows.",
-        "Support cPanel/WHM & Plesk control panels.",
+        "Supported Customers via Phone, Live Chat, and Support Tickets.",
+        "Supported Linux & Windows operating systems.",
+        "Supported cPanel/WHM & Plesk control panels.",
         "Troubleshoot multitude of issues and services."
       ]
     },
@@ -56,13 +71,12 @@
       "endDate": "2017-07-31",
       "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
       "highlights": [
-        "Worked remotely from home.",
         "Supported Customers via Phone, Live Chat, and Support Tickets.",
+        "Helped to document procedures and policies, regarding compromised accounts and IP blacklistings.",
         "Monitored Exim mail queues and logs for spam and other malicious activity using nagios.",
-        "Monitored our IP address for blacklisting issues and handled them based on our policies.",
-        "Helped to document procedures and policies, regarding compromised accounts and blacklisting issues.",
-        "Reviewed abusive accounts and proceeded accordingly per our procedures and or policies.",
-        "Worked with 3rd party abuse companies to take down malicious sites.",
+        "Monitored our IP addresses for blacklistings and handled them based on our policies.",
+        "Reviewed accounts for abusive behavior and proceeded accordingly per our procedures and or policies.",
+        "Worked with 3rd party companies to take down malicious sites.",
         "Created bash scripts to help automate and obtain information from logs."
       ]
     },
@@ -74,13 +88,10 @@
       "endDate": "2015-06-01",
       "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
       "highlights": [
-        "Worked remotely from home.",
         "Supported Customers via Phone, Live Chat, and Support Tickets.",
-        "Migrated client cPanel accounts from other hosts to our servers as well as internally.",
+        "Migrated client cPanel accounts internally, and externally.",
         "Assisted customers with pre-sales and sales questions.",
-        "Provided server-side support for hosting services.",
-        "Review abusive accounts and proceed accordingly.",
-        "Work with 3rd party abuse companies to take down malicious sites."
+        "Provided server-side support for hosting services."
       ]
     }
   ],
@@ -139,6 +150,7 @@
       "name": "Linux Systems Administration",
       "keywords": [
         "CentOS",
+        "RHEL",
         "Ubuntu",
         "Scripting",
         "Management",
@@ -170,10 +182,13 @@
       ]
     },
     {
-      "name": "Automation & Development",
+      "name": "Automation & DevOps",
       "keywords": [
+        "AzureDevOps",
         "Bash",
-        "Git"
+        "Chef",
+        "Git",
+        "Packer"
       ]
     }
   ],
@@ -187,19 +202,9 @@
     {
       "name": "DevOps & Development",
       "keywords": [
-        "Chef",
         "Automation",
-        "CI pipeline",
-        "Cookbooks",
-        "Inspec",
+        "CI/CD pipelines",
         "Ruby"
-      ]
-    },
-    {
-      "name": "Linux Administration",
-      "keywords": [
-        "Bash Scripting",
-        "Installing & troubleshooting software"
       ]
     }
   ],
