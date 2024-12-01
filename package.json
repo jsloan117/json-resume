@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node resume.js"
+  },
+  "dependencies": {
+    "jsonresume-theme-jdambron": "^1.0.11",
+    "puppeteer": "^23.9.0",
+    "resumed": "^4.0.0"
+  }
+}
