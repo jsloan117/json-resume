@@ -1,19 +1,19 @@
 # json-resume
 
-My Resume
+JSON resume based on it's [schema](https://jsonresume.org/schema).
 
-## How to use
+## Usage
 
-hackmyresume BUILD resume.json /path/to/resume.pdf -t /path/to/theme/node_modules/jsonresume-theme-eloquent
+[resumed](https://github.com/rbardini/resumed) has replaced resume-cli since its no longer maintained.
 
-## Selecting phantom or wkhtmltopdf
+```bash
+resumed render -t theme
+```
 
-hackmyresume BUILD resume.json TO /path/to/resume.pdf -p (phantom|wkhtmltopdf) -t /path/to/theme/node_modules/jsonresume-theme-eloquent
+To export a PDF execute the below this uses the theme [jsonresume-theme-jdambron](https://www.npmjs.com/package/jsonresume-theme-jdambron).
 
-## Manually creating PDF file, after editing the HTML file (if needed)
+```bash
+npm install
+npm start
+```
 
-wkhtmltopdf /path/to/htmlfile/resume.pdf.html /path/to/output/resume.pdf
-
-## Phantom example
-
-phantom /path/to/htmlfile/resume.pdf.html /path/to/output/resume.pdf

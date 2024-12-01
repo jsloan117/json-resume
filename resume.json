@@ -1,131 +1,107 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Jonathan Sloan",
-    "label": "",
+    "name": "Jessica Sloan",
+    "label": "Senior Infrastructure Engineer",
+    "image": "https://www.jessicasloan.me/images/me.png",
     "email": "jsloan117@gmail.com",
     "phone": "(419) 388-9364",
-    "website": "www.jonathansloan.me",
-    "summary": "Certified Linux system administrator with experience in the daily operations, support, and maintenance of Linux operating systems.",
+    "url": "https://www.jessicasloan.me",
+    "summary": "I am a infrastructure engineer with a passion for problem solving and automation, with a background in computer science.",
+    "location": {
+      "city": "Greater Toledo Area",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
     "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "Jonathan Sloan",
-        "url": "https://www.linkedin.com/in/jonathan-sloan-52a808146"
-      },
       {
         "network": "GitHub",
         "username": "jsloan117",
         "url": "https://github.com/jsloan117"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jms6",
+        "url": "https://www.linkedin.com/in/jms6/"
       }
     ]
   },
   "work": [
     {
-      "company": "H&R Block",
-      "position": "Infrastructure Engineer",
-      "website": "https://www.hrblock.com",
-      "startDate": "2021-01-09",
-      "summary": "H&R Block the leading tax experts.",
-      "highlights": [
-        "Assist in developing, and documenting company standards for Chef.",
-        "Assist in design, and maintaining our pipelines.",
-        "Write many inspec profiles.",
-        "Work with many teams to help guide in writting cookbooks, and inspec profiles.",
-        "Plus all previous responsibilities."
-      ]
-    },
-    {
-      "company": "H&R Block",
-      "position": "Associate Infrastructure Engineer",
-      "website": "https://www.hrblock.com",
+      "name": "H&R Block",
+      "location": "Remote",
+      "description": "Tax Preparation Company",
+      "position": "Senior Infrastructure Engineer",
+      "url": "https://www.hrblock.com/",
       "startDate": "2019-06-03",
-      "endDate": "2021-01-09",
-      "summary": "H&R Block the leading tax experts.",
+      "summary": "",
       "highlights": [
-        "Manage internal systems that are required for daily operations.",
-        "Work with multiple different teams across H&R Block to accomplish company goals & projects.",
-        "On-call 24/7 as the primary engineer for many solutions.",
-        "Support Linux & Windows operating systems.",
-        "Troubleshoot a multitude of issues and services."
+        "Generate golden VM images for the company using Packer.",
+        "Assist in developing and documenting company standards for Chef.",
+        "Assist in design, and maintaining our pipelines.",
+        "Created many Inspec profiles.",
+        "Maintain and support Linux and Windows operating systems.",
+        "Diagnose and resolve a wide range of issues and services."
       ]
     },
     {
-      "company": "Codero",
+      "name": "Codero",
+      "location": "Overland Park, Kansas",
+      "description": "Web Hosting Company",
       "position": "Level 1 Support Technician",
-      "website": "https://www.codero.com",
+      "url": "https://www.codero.com/",
       "startDate": "2018-01-22",
       "endDate": "2019-05-30",
-      "summary": "Codero a web hosting company based out of Overland Park Kansas. They offer everything from cloud computing to high-performance dedicated servers.",
+      "summary": "Codero a web hosting company based out of Austin Texas. They offer everything from cloud computing to high-performance dedicated servers.",
       "highlights": [
-        "Supported Customers via Phone, Live Chat, and Support Tickets.",
-        "Supported Linux & Windows operating systems.",
-        "Supported cPanel/WHM & Plesk control panels.",
-        "Troubleshoot multitude of issues and services."
+        "Support Customers via Phone, Live Chat, and Ticketing system.",
+        "Support Linux and Windows operating systems.",
+        "Support cPanel/WHM & Plesk control panels.",
+        "Diagnose and resolve a wide range of issues and services."
       ]
     },
     {
-      "company": "A2 Hosting",
-      "position": "Compliance Specialist",
-      "website": "https://www.a2hosting.com",
-      "startDate": "2015-06-01",
+      "name": "A2 Hosting",
+      "location": "Remote",
+      "description": "Web Hosting Company",
+      "position": "Compliance Specialist/Linux Support Analyst",
+      "url": "https://www.a2hosting.com/",
+      "startDate": "2013-12-26",
       "endDate": "2017-07-31",
       "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
       "highlights": [
+        "Worked remotely from home.",
         "Supported Customers via Phone, Live Chat, and Support Tickets.",
-        "Helped to document procedures and policies, regarding compromised accounts and IP blacklistings.",
         "Monitored Exim mail queues and logs for spam and other malicious activity using nagios.",
-        "Monitored our IP addresses for blacklistings and handled them based on our policies.",
-        "Reviewed accounts for abusive behavior and proceeded accordingly per our procedures and or policies.",
-        "Worked with 3rd party companies to take down malicious sites.",
-        "Created bash scripts to help automate and obtain information from logs."
-      ]
-    },
-    {
-      "company": "A2 Hosting",
-      "position": "Linux Support Analyst",
-      "website": "https://www.a2hosting.com/",
-      "startDate": "2013-12-26",
-      "endDate": "2015-06-01",
-      "summary": "A2 Hosting a web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance dedicated servers.",
-      "highlights": [
-        "Supported Customers via Phone, Live Chat, and Support Tickets.",
-        "Migrated client cPanel accounts internally, and externally.",
-        "Assisted customers with pre-sales and sales questions.",
+        "Monitored our IP address for blacklisting issues and handled them based on our policies.",
+        "Document procedures and policies for compromised accounts and blacklisting issues.",
+        "Reviewed abusive accounts and proceeded accordingly per our procedures and policies.",
+        "Worked with 3rd party abuse companies to take down malicious sites.",
+        "Created bash scripts to automate information gathering from logs.",
+        "Migrated client cPanel accounts from other hosts to our servers and internally.",
         "Provided server-side support for hosting services."
       ]
     }
   ],
   "education": [
     {
-      "institution": "Baker College",
-      "area": "Computer Information Systems concentrated in Cyber Defense",
-      "studyType": "Bachelor",
+      "institution": "Baker College of Flint",
+      "url": "https://www.baker.edu/",
+      "area": "CIS concentrated in Cyber Defense",
+      "studyType": "Bachelor - uncompleted",
       "startDate": "2011-12",
-      "endDate": "2016-04"
+      "endDate": "2014-06"
     },
     {
       "institution": "Four County Career Center",
-      "area": "Cisco Systems and general IT",
-      "startDate": "2007-09",
-      "endDate": "2009-06"
+      "url": "https://www.fourcounty.net/",
+      "area": "IT and Cisco Systems",
+      "studyType": "High School",
+      "startDate": "2007",
+      "endDate": "2009"
     }
   ],
   "awards": [
-    {
-      "title": "Certified Solutions Architect - Associate (SAA)",
-      "date": "2019-02-15",
-      "awarder": "AWS"
-    },
-    {
-      "title": "Linux+",
-      "date": "2017-10-27",
-      "awarder": "CompTIA"
-    },
-    {
-      "title": "LPIC-1",
-      "date": "2017-10-27",
-      "awarder": "LPI"
-    },
     {
       "title": "Collegiate Cyber Defense Competition",
       "date": "2013-05",
@@ -145,66 +121,49 @@
       "summary": "State contestant"
     }
   ],
+  "certificates": [
+    {
+      "name": "Linux+",
+      "date": "2017-10-27",
+      "url": "https://www.credly.com/badges/dca732e5-4bbb-4bab-ae38-c2f066e7b5ab/public_url",
+      "issuer": "CompTIA"
+    },
+    {
+      "name": "LPIC-1",
+      "date": "2017-10-27",
+      "url": "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000388652/af978vrtd6",
+      "issuer": "LPI"
+    },
+    {
+      "name": "Certified Solutions Architect - Associate (SAA)",
+      "date": "2019-02-15",
+      "url": "https://www.credly.com/badges/140a8f5f-71c2-4199-bb4e-579069dc1f7d/public_url",
+      "issuer": "AWS"
+    }
+  ],
   "skills": [
-    {
-      "name": "Linux Systems Administration",
-      "keywords": [
-        "CentOS",
-        "RHEL",
-        "Ubuntu",
-        "Scripting",
-        "Management",
-        "Monitoring",
-        "Security"
-      ]
-    },
-    {
-      "name": "Troubleshooting Services",
-      "keywords": [
-        "DNS",
-        "HTTP",
-        "POP3/IMAP",
-        "SMTP",
-        "FTP",
-        "MySQL"
-      ]
-    },
-    {
-      "name": "General IT",
-      "keywords": [
-        "Networking",
-        "Technical Support",
-        "Computer Repair",
-        "Troubleshooting Hardware & Software",
-        "Customer Service",
-        "Documentation",
-        "Software Installation"
-      ]
-    },
     {
       "name": "Automation & DevOps",
       "keywords": [
-        "AzureDevOps",
+        "Azure DevOps",
         "Bash",
         "Chef",
         "Git",
-        "Packer"
+        "Packer",
+        "Powershell",
+        "Ruby",
+        "TFE"
       ]
-    }
-  ],
-  "languages": [
+    },
     {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "DevOps & Development",
+      "name": "Linux System Administration",
       "keywords": [
-        "Automation",
-        "CI/CD pipelines",
-        "Ruby"
+        "Management",
+        "Monitoring",
+        "RHEL",
+        "Scripting",
+        "Security",
+        "Ubuntu"
       ]
     }
   ],
@@ -212,5 +171,10 @@
     {
       "name": "Available upon request."
     }
-  ]
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsloan117/json-resume/refs/heads/main/resume.json",
+    "version": "v2.0.0",
+    "lastModified": "2024-11-29T10:38:14.00Z"
+  }
 }
